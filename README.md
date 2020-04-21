@@ -7,11 +7,13 @@ The reference standard corpus is synthetic and based on the NorSynthClinical cor
 
 To create this reference standard, the NorSynthClinical corpus was extended with personal information, and then, annotated using the following tags: 
 * First_Name
-* Last_Name, Age
+* Last_Name
+* Age
 * Health_Care_Unit
 * Phone_Number
 * Social_Security_Number
-* Date_Full, Date_Part
+* Date_Full
+* Date_Part
 * Location
 
 The provided reference standard is made by Synnøve Bråten. It was made as a part of the master thesis in the Joint Master's Programme in Health Informatics at Stockholm University/Karolinska Institutet. The paper describing the work will be published soon.
