@@ -1,4 +1,4 @@
-# Reference-standard-for-de-identification-of-Norwegian-clinical-text
+# The NorSynthClinical PHI Corpus
 
 **A corpus of clinical text which can be used as a reference standard for de-identification of Norwegian clinical text.** 
 
