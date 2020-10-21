@@ -18,5 +18,5 @@ To create this reference standard, the NorSynthClinical corpus was extended with
 
 The verified version of the reference standard is the "reference_standard_annotated.txt" file. 
 
-The reference standard is made by Synnøve Bråten. It was made as a part of the master thesis in the Joint Master's Programme in Health Informatics at Stockholm University/Karolinska Institutet. The paper describing the work will be published soon.
+The reference standard is made by Synnøve Bråten. It was made as a part of the master thesis in the Joint Master's Programme in Health Informatics at Stockholm University/Karolinska Institutet. The paper describing the work is available here: https://daisy.dsv.su.se/fil/visa?id=230054.
 
