@@ -18,5 +18,7 @@ To create this reference standard, the NorSynthClinical corpus was extended with
 
 The verified version of the reference standard is the "reference_standard_annotated.txt" file. 
 
-The reference standard is made by Synnøve Bråten. It was made as a part of the master thesis in the Joint Master's Programme in Health Informatics at Stockholm University/Karolinska Institutet. The master thesis describing the work is available here: https://daisy.dsv.su.se/fil/visa?id=230054.
+The reference standard is made by Synnøve Bråten. It was made as a part of a master's thesis in the Joint Master's Programme in Health Informatics at Stockholm University/Karolinska Institutet. The master's thesis describing the work is available here: https://daisy.dsv.su.se/fil/visa?id=230054. 
+
+See also Bråten, S., Wie, W., & Dalianis, H. (2021). Creating and Evaluating a Synthetic Norwegian Clinical Corpus for De-Identification. In Proceedings of the 23rd Nordic Conference on Computational Linguistics (NoDaLiDa) (pp. 222-230). https://aclanthology.org/2021.nodalida-main.22.pdf
 
